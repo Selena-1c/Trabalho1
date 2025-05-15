@@ -3,7 +3,8 @@
 Trabalho do grupo 2 - 2 ano B
 Tema 8 - Perfil de uso do computador entre os jovens
 
-Integrantes do Grupo são
+Integrantes do Grupo são :
+
 
 Aubrey [ Selena Wollmann ]
 
